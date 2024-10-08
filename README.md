@@ -1,12 +1,12 @@
 # FastAPI Application
 
-Ce projet est une API développée avec **FastAPI**. Cette application offre [brièvement décrire les fonctionnalités principales de l'application].
+Ce projet est une API développée avec **FastAPI**. Cette application est un modèle de démarrage pour la création d'une API.
 
 ## Table des matières
 
 1. [Prérequis](#prérequis)
 2. [Installation](#installation)
-3. [Variables d'environnement](#variables-denvironnement)
+3. [Variables d&#39;environnement](#variables-denvironnement)
 4. [Exécution du projet](#exécution-du-projet)
 5. [Documentation API](#documentation-api)
 6. [Déploiement](#déploiement)
@@ -24,10 +24,9 @@ Ce projet est une API développée avec **FastAPI**. Cette application offre [br
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/ton-utilisateur/ton-projet.git
-cd ton-projet
+git clone https://github.com/tchindebe/template-example-fastapi.git
+cd template-example-fastapi
 ```
-
 
 ### 2. Créer un environnement virtuel (optionnel mais recommandé)
 
@@ -84,7 +83,6 @@ Utilisez la commande suivante pour démarrer l'application en mode développemen
 ```bash
 uvicorn main:app --reload
 ```
-
 
 ## Documentation API
 
